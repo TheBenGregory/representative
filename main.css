@@ -29,4 +29,5 @@ body{
     flex-flow: wrap column;
     align-items: flex-end;
     justify-content: left;
+    color: purple;
 }
