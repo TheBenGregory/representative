@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(115, 115, 175);
+}
+
+.info{
+    display: flex;
+    font-size: 24px;
+    flex-flow: column wrap
+
+}
+
+.main_image{
+    size: 20em;
+    border: black;
+    border-color: black;
+    
+}
+/* .rep{
+    
+} */
+
+.committee{
+    flex-flow: wrap column;
+    align-items: flex-start;
+    justify-content: right;
+}
+
+.legislation{
+    flex-flow: wrap column;
+    align-items: flex-end;
+    justify-content: left;
+}
